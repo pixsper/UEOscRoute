@@ -1,2 +1,2 @@
-# UEOscRoute
-Better OSC message routing for Unreal
+# UEOSCRoute
+Better OSC message routing for Unreal 5
